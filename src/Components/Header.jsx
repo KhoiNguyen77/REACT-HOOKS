@@ -23,6 +23,11 @@ const Header = () => {
                             <NavLink className="dropdown-item bg-white text-dark" to="/usestate">UseState</NavLink>
                             <NavLink className="dropdown-item bg-white text-dark" to="/useeffect">UseEffct</NavLink>
                             <NavLink className="dropdown-item bg-white text-dark" to="/usecallback">UseCallBack</NavLink>
+                            <NavLink className="dropdown-item bg-white text-dark" to="/usememo">UseMemo</NavLink>
+                            <NavLink className="dropdown-item bg-white text-dark" to="/useref">UseRef</NavLink>
+                            <NavLink className="dropdown-item bg-white text-dark" to="/hookredux">UseHookRedux</NavLink>
+                            <NavLink className="dropdown-item bg-white text-dark" to="/usenavigate">UseNavigate</NavLink>
+                            <NavLink className="dropdown-item bg-white text-dark" to="/usesearchparam">UseSearch</NavLink>
                         </div>
                     </li>
                 </ul>
